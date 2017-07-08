@@ -1,0 +1,6 @@
+5
+05.01.1000;50;50;The Plains of Evermore. Found in 
+04.02.1100;400;120;The Kings Castle. Founded in 
+03.03.1200;180;280;The Unseen University Founded in 
+02.04.1300;250;180;Ankh, the rich part of Ankh-Morpork. Founded in 
+01.05.1400;250;250;Morpork, the dodgy part of Ankh-Morpork. Founded in
